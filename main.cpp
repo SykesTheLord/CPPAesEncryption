@@ -5,6 +5,6 @@
 int main() {
     std::cout << "Hello, World!" << std::endl;
     Encryption encryption;
-    encryption.Encrypter();
+    encryption.encrypt();
     return 0;
 }

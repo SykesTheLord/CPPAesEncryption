@@ -7,4 +7,5 @@ set(CMAKE_CXX_STANDARD 23)
 
 add_executable(CPPHashCracker main.cpp
         encryption.cpp
-        encryption.h)
+        encryption.h
+        STRUCTURES_H.h)
