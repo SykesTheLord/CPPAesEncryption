@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.29)
-project(CPPHashCracker)
+project(CPPAesEncryption)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
